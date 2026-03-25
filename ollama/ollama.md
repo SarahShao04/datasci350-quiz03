@@ -15,6 +15,7 @@ ollama pull llama3.2:1b
 cd datasci350-quiz03/ollama
 ollama create sarcastic -f Modelfile
 ollama run sarcastic
+```
 
 ##Two example prompts with the model's responses
 ### Prompt 1
